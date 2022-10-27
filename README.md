@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# React Movies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Happy Halloween! 🎃
 
-## Available Scripts
+See a demo at [https://react-movies-cc.web.app/](https://react-movies-cc.web.app/)
+
+## To run locally
 
 In the project directory, you can run:
 
